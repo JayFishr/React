@@ -7,7 +7,7 @@ import Books from "../components/Books";
 const Author = (props) => {
     const [author, setAuthor] = useState("");
     const [results, setResults] = useState([]);
-    const [key, setKey] = useState("AIzaSyA-sOXUVyQCWTWlMymoPQDT_yveRsNYmCU");
+    const [key, setKey] = useState("");
     const history = useHistory();
 
     const onSubmitHandler = (event) => {
