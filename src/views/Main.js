@@ -8,7 +8,7 @@ import Books from '../components/Books';
 const Main = (props) => {
     // const { results } = props;
     const [book, setBook] = useState("");
-    const [key, setKey] = useState("AIzaSyA-sOXUVyQCWTWlMymoPQDT_yveRsNYmCU");
+    const [key, setKey] = useState("");
     const [results, setResults] = useState([]);
     // const [errors, setErrors] = useState("")
 
