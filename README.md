@@ -1,3 +1,5 @@
+Simple app utilizing Google Books Api to allow you to search for books by title/keyword or by author.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
