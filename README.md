@@ -1,4 +1,4 @@
-Simple app utilizing Google Books Api to allow you to search for books by title/keyword or by author.
+👋 Simple app utilizing Google Books Api to allow you to search for books by title/keyword or by author. 👋
 
 # Getting Started with Create React App
 
